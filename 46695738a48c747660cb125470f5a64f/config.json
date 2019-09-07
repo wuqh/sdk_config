@@ -4,5 +4,8 @@ password: "a1",
 package: "",
 status: 1,
 result: "",
-msg: ""
+msg: "登录成功",
+params: {id: 1
+  },
+  destUrl: ""
 }
