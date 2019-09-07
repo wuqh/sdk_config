@@ -1,7 +1,7 @@
 {
 userName: "a1",
 password: "a1",
-package: "",
+appName: "",
 status: 1,
 result: "",
 msg: "登录成功",
